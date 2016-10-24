@@ -10,7 +10,7 @@ namespace HelloSlalom
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Slalom!");
+            Console.WriteLine("Hello Slalom! Conflict!");
             Console.ReadLine();
         }
     }
